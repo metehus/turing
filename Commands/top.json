@@ -1,0 +1,383 @@
+{
+    "toptracks": {
+        "track": [
+            {
+                "name": "A Kind Of Magic - Remastered 2011",
+                "duration": "0",
+                "playcount": "4",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Queen/_/A+Kind+Of+Magic+-+Remastered+2011",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Queen",
+                    "mbid": "420ca290-76c5-41af-999e-564d7c71f1a7",
+                    "url": "https://www.last.fm/music/Queen"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "1"
+                }
+            },
+            {
+                "name": "Friends Will Be Friends - Remastered 2011",
+                "duration": "0",
+                "playcount": "4",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Queen/_/Friends+Will+Be+Friends+-+Remastered+2011",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Queen",
+                    "mbid": "420ca290-76c5-41af-999e-564d7c71f1a7",
+                    "url": "https://www.last.fm/music/Queen"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "2"
+                }
+            },
+            {
+                "name": "Under Pressure - Remastered",
+                "duration": "0",
+                "playcount": "4",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Queen/_/Under+Pressure+-+Remastered",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Queen",
+                    "mbid": "420ca290-76c5-41af-999e-564d7c71f1a7",
+                    "url": "https://www.last.fm/music/Queen"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "3"
+                }
+            },
+            {
+                "name": "ALASKA",
+                "duration": "0",
+                "playcount": "3",
+                "mbid": "",
+                "url": "https://www.last.fm/music/BROCKHAMPTON/_/ALASKA",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "BROCKHAMPTON",
+                    "mbid": "",
+                    "url": "https://www.last.fm/music/BROCKHAMPTON"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/e4780a7da2d289b6fdbad00874f1d468.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/e4780a7da2d289b6fdbad00874f1d468.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/e4780a7da2d289b6fdbad00874f1d468.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/e4780a7da2d289b6fdbad00874f1d468.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "4"
+                }
+            },
+            {
+                "name": "One Vision - Remastered 2011",
+                "duration": "0",
+                "playcount": "3",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Queen/_/One+Vision+-+Remastered+2011",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Queen",
+                    "mbid": "420ca290-76c5-41af-999e-564d7c71f1a7",
+                    "url": "https://www.last.fm/music/Queen"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "5"
+                }
+            },
+            {
+                "name": "Who Wants To Live Forever - Remastered 2011",
+                "duration": "0",
+                "playcount": "3",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Queen/_/Who+Wants+To+Live+Forever+-+Remastered+2011",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Queen",
+                    "mbid": "420ca290-76c5-41af-999e-564d7c71f1a7",
+                    "url": "https://www.last.fm/music/Queen"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "6"
+                }
+            },
+            {
+                "name": "You're My Best Friend - Remastered 2011",
+                "duration": "0",
+                "playcount": "3",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Queen/_/You%27re+My+Best+Friend+-+Remastered+2011",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Queen",
+                    "mbid": "420ca290-76c5-41af-999e-564d7c71f1a7",
+                    "url": "https://www.last.fm/music/Queen"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bd3b4dad5ca04c5da7fa22f897bc1cd0.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "7"
+                }
+            },
+            {
+                "name": "A Certain Romance",
+                "duration": "406",
+                "playcount": "2",
+                "mbid": "7a7bc35c-c49c-408b-a860-23a8cfef6d43",
+                "url": "https://www.last.fm/music/Arctic+Monkeys/_/A+Certain+Romance",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Arctic Monkeys",
+                    "mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+                    "url": "https://www.last.fm/music/Arctic+Monkeys"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/81d5e41b894042efb6798ea312878612.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/81d5e41b894042efb6798ea312878612.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/81d5e41b894042efb6798ea312878612.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/81d5e41b894042efb6798ea312878612.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "8"
+                }
+            },
+            {
+                "name": "A Pearl",
+                "duration": "0",
+                "playcount": "2",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Mitski/_/A+Pearl",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Mitski",
+                    "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+                    "url": "https://www.last.fm/music/Mitski"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/aaf1cae6ef8253d7c3eb0479e90a18f8.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/aaf1cae6ef8253d7c3eb0479e90a18f8.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/aaf1cae6ef8253d7c3eb0479e90a18f8.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/aaf1cae6ef8253d7c3eb0479e90a18f8.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "9"
+                }
+            },
+            {
+                "name": "Anna Wintour Lyric Video",
+                "duration": "0",
+                "playcount": "2",
+                "mbid": "",
+                "url": "https://www.last.fm/music/Azealia+Banks/_/Anna+Wintour+Lyric+Video",
+                "streamable": {
+                    "#text": "0",
+                    "fulltrack": "0"
+                },
+                "artist": {
+                    "name": "Azealia Banks",
+                    "mbid": "0c3505e7-d884-43cf-9028-d318607190a4",
+                    "url": "https://www.last.fm/music/Azealia+Banks"
+                },
+                "image": [
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/34s/66c40523b8098f518bfddec47469bec4.png",
+                        "size": "small"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/64s/66c40523b8098f518bfddec47469bec4.png",
+                        "size": "medium"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/174s/66c40523b8098f518bfddec47469bec4.png",
+                        "size": "large"
+                    },
+                    {
+                        "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/66c40523b8098f518bfddec47469bec4.png",
+                        "size": "extralarge"
+                    }
+                ],
+                "@attr": {
+                    "rank": "10"
+                }
+            }
+        ],
+        "@attr": {
+            "user": "metye",
+            "page": "1",
+            "perPage": "10",
+            "totalPages": "32",
+            "total": "316"
+        }
+    }
+}

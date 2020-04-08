@@ -1,0 +1,19 @@
+{
+    "prefix": "t.",
+    "owners": [
+        "205873263258107905"
+    ],
+    "emojis": {
+        "error": "334161910327017472",
+        "explicit": "509449378700853258",
+        "lastfm": "509449749712207872"
+    },
+    "colors": {
+        "spotify": "#1db954",
+        "youtube": "#E62117",
+        "soundcloud": "#fa6837",
+        "default": "#0288d1",
+        "error": "#E50914",
+        "lastfm": "#D51007"
+    }
+}
